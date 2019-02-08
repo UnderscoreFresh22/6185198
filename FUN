@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>FUN</title>
+  </head>The Unity/<br>
+  <body>Welcome To The Unity /<br>
+    <<body>The Unity or Fresh's United Network (FUN) is a network online where you can meet other like minded individuals and talk to them.
+
+    </body> My name is Fresh, _UnderscoreFresh, FreshRoadKillz whatever you want to call me but just call me 6_18_5_19_8. <br>''
+
+
+  </body>
+</script>
+document.write(''HELLO, World!'')
+
+
+</html>
+
